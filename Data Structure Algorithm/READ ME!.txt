@@ -1,0 +1,34 @@
+Apache NetBeans IDE 18
+
+Name: Francis Lee Jun Feng
+Student ID: 23WMR11560
+
+To run the tutorial group management subsystem, run the MainMenu.java file
+
+When start running in the Main Menu part,
+
+Select option 1 to add students
+ - Choose The Group You Wish
+ - Name, Student ID, Gender is needed
+ - Cannot have duplicated ID
+
+Select option 2 to remove students
+ - Choose The Group You Wish
+ - Input the ID of the students you wished to remove
+
+Select option 3 to change group for students
+ - Choose The Group You Wish
+ - Name, Student ID, Gender is needed
+ - Choose The Group You Want to Change
+
+Select option 4 to Find the students
+ - Input the student ID
+
+Select option 5 to list all the students
+ - Input the Group number that you want to see
+
+Select option 6 to filter the group based on criteria
+ - Choose the gender which is 'M'/'F' then the particular record will be shown
+
+Select option 7 to generate reports
+Select option 8 to clear all the data
